@@ -6,7 +6,9 @@ Este repositório contém o **microserviço de carrinho de compras** desenvolvid
 ---
 ### Arquitetura do Microserviço
 
-![Arquitetura do Microserviço de Carrinho](cart-microservice-architecture.png)
+<div align="center">
+  <img src="Images/cart-microservice-architecture.png" alt="Arquitetura do Microserviço de Carrinho">
+</div>
 
 #### Descrição
 A arquitetura do microserviço de carrinho de compras foi projetada para oferecer alta performance e escalabilidade, com os seguintes componentes:
