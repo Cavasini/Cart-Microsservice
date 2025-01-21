@@ -80,6 +80,17 @@ Este microserviço foi desenvolvido para:
 
 ---
 
+### Testes
+- **Testes Unitários e de Integração**: Estão sendo implementados para garantir a qualidade do código e o correto funcionamento do microserviço.
+
+---
+
+### Documentação da API
+- **Swagger**: O projeto inclui o Swagger para facilitar o entendimento e a utilização da API. A documentação pode ser acessada em:  
+  [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+
+---
+
 ### Próximos Passos
 - Integração com um **API Gateway** para roteamento inteligente e balanceamento de carga.
 - Implantação na **nuvem (AWS ou Azure)** para alta disponibilidade.
